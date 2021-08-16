@@ -1,3 +1,10 @@
+# TrybeWallet
+
+Para instalar esse projeto, garanta que você tem instalado o Node em sua máquina.
+
+Caso tenha, abra o terminal, clone este projeto e use npm install.
+
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
